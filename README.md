@@ -68,4 +68,4 @@ If you'd like to contribute to this project, follow these steps:
 
 ## License
 
-This project is licensed under the XYZ License - see the [LICENSE](LICENSE) file for details.
+This script is licensed under the MIT License. Feel free to use, modify, and distribute it.
